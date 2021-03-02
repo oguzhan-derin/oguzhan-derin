@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on ASP.Net Core.
 - 🌱 I’m currently learning Back-End & Front-End
 
-
+<img src="https://github.com/oguzhan-derin/oguzhan-derin/blob/main/________.png" width="auto">
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/oguzhan-derin) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/oguzhnderin) 
