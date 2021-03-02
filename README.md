@@ -1,4 +1,4 @@
-<img src="https://github.com/oguzhan-derin/oguzhan-derin/blob/main/234234.png" width="auto">
+
 
 ### Hi there 👋
 
