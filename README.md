@@ -1,7 +1,10 @@
+<img src="https://github.com/oguzhan-derin/oguzhan-derin/blob/main/234234.png" width="auto">
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ASP.Net Core.
 - 🌱 I’m currently learning Back-End & Front-End
+
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/oguzhan-derin) 
