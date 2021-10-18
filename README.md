@@ -3,7 +3,6 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on ASP.Net Core.
 - 🌱 I’m currently learning Back-End & Front-End
 
 
