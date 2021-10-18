@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning Back-End & Front-End
+- 🌱 I’m currently learning everything
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/oguzhan-derin) 
